@@ -39,6 +39,7 @@ Several patients experienced repeat encounters within 30 days. Identifying the u
 
 ### 5. Optimize Resource Allocation
 Ambulatory encounters accounted for the majority of hospital visits. Resource planning should reflect this demand while ensuring sufficient capacity is maintained for emergency and inpatient care.
+
 ---
 
 ## 🧠 Key SQL Concepts Used
