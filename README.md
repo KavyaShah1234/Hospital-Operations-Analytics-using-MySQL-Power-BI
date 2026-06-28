@@ -21,14 +21,24 @@ The dataset consists of multiple relational healthcare tables used for analysis:
 
 ---
 
-**Business Recommendations**
+## Business Recommendations
 
-1)Expand mental health capacity if demand continues to exceed resources.
-2)Review causes behind annual spikes in encounter volume.
-3)Strengthen financial counseling to reduce uninsured encounters.
-4)Investigate frequent readmission patients for chronic care interventions.
-5)Monitor resource allocation between ambulatory and inpatient services.
+Based on the analysis, the following recommendations were identified:
 
+### 1. Expand Mental Health Capacity
+Mental health–related procedures were among the most frequently performed, indicating sustained demand. The hospital should evaluate therapist availability, appointment wait times, and patient load to determine whether additional behavioral health professionals are required.
+
+### 2. Investigate Annual Spikes in Encounters
+Encounter volume increased significantly during specific years. Further investigation into seasonal trends, disease outbreaks, policy changes, or operational factors could help explain these fluctuations and improve future capacity planning.
+
+### 3. Improve Financial Assistance for Uninsured Patients
+Nearly half of all encounters had zero payer coverage, exposing the hospital to potential revenue loss. Establishing financial counseling services and assisting eligible patients with insurance or government subsidy enrollment could improve reimbursement rates.
+
+### 4. Monitor Patients with Frequent Readmissions
+Several patients experienced repeat encounters within 30 days. Identifying the underlying causes of these readmissions and implementing targeted follow-up programs may improve patient outcomes while reducing unnecessary hospital utilization.
+
+### 5. Optimize Resource Allocation
+Ambulatory encounters accounted for the majority of hospital visits. Resource planning should reflect this demand while ensuring sufficient capacity is maintained for emergency and inpatient care.
 ---
 
 ## 🧠 Key SQL Concepts Used
