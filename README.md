@@ -17,7 +17,17 @@ The dataset consists of multiple relational healthcare tables used for analysis:
 - `patients` → Patient demographic information  
 - `procedures` → Medical procedures performed  
 - `payers` → Insurance / coverage information  
-- `organizations` → Hospital / healthcare providers  
+- `organizations` → Hospital / healthcare providers
+
+---
+
+**Business Recommendations**
+
+1)Expand mental health capacity if demand continues to exceed resources.
+2)Review causes behind annual spikes in encounter volume.
+3)Strengthen financial counseling to reduce uninsured encounters.
+4)Investigate frequent readmission patients for chronic care interventions.
+5)Monitor resource allocation between ambulatory and inpatient services.
 
 ---
 
